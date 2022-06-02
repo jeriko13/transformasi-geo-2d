@@ -53,7 +53,7 @@ Contoh masukan :
 ('Masukan titik untuk nilai C y:'))
 ```
 
-# ---------------------Masukan titik skala-----------------------
+# -------------------Masukan titik skala---------------------
 
 Masukan titik skala x:1
 Masukan titik skala y:2
@@ -146,7 +146,7 @@ Masukan titik untuk nilai B y:4
 Masukan titik untuk nilai C x:3
 Masukan titik untuk nilai C y:6
 ===============================================================
--------------------Masukan titik skala---------------------
+---------------------Masukan titik skala-----------------------
 ===============================================================
 Masukan titik skala x:1
 Masukan titik skala y:2
